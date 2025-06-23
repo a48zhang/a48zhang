@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm currently looking for *Jobs*.
+~I'm currently looking for *Jobs*.~
+
+Intern@Alibaba; Looking for the next stop.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a48zhang)](https://github.com/anuraghazra/github-readme-stats)
 
