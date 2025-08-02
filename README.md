@@ -2,7 +2,7 @@
 
 ~I'm currently looking for *Jobs*.~
 
-Intern@Alibaba; Looking for the next stop.
+SDE Intern@Alibaba; Looking for the next.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a48zhang)](https://github.com/anuraghazra/github-readme-stats)
 
