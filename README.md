@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+Very interested in your ideas in AI✨
+
 ~I'm currently looking for *Jobs*.~
 
-SDE Intern@Alibaba; Looking for the next.
+~SDE Intern@Alibaba;~
+
+Educator@High School Affiliated to SMBU;
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a48zhang)](https://github.com/anuraghazra/github-readme-stats)
 
