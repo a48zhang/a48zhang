@@ -2,7 +2,7 @@
 
 Very interested in your ideas in AI✨
 
-~I'm currently looking for *Jobs*.~
+**I'm currently looking for *Jobs*.**
 
 ~SDE Intern@Alibaba;~
 
