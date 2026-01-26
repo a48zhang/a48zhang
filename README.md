@@ -2,11 +2,10 @@
 
 Very interested in your ideas in AI✨
 
-**I'm currently looking for *Jobs*.**
+**I'm currently looking for *Jobs*.** 
+I have skills in AI-Agent, typescript, golang, python, etc. Contact me via `vlad at ccnuacm.com` .  
 
-~SDE Intern@Alibaba;~
-
-Educator@High School Affiliated to SMBU;
+~SDE Intern@Alibaba Group;~
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a48zhang)](https://github.com/anuraghazra/github-readme-stats)
 
