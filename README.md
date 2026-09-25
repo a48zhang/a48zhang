@@ -2,9 +2,9 @@
 
 AI Agent Dev@Alibaba Group; Contact me via `vlad at ccnuacm.com` .  
 
-Former member of ![CCNUACM](https://wiki.ccnuacm.com) and ![Muxi]().
+Former member of [CCNUACM](https://wiki.ccnuacm.com) and [Muxi]().
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a48zhang)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=a48zhang)](https://github.com/stats-organization/github-stats-extended)
 
 <picture>
   <source
